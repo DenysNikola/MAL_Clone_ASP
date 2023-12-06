@@ -1,0 +1,57 @@
+﻿@model List<Anime>
+
+@{
+    ViewData["Title"] = "Anime List";
+}
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 mb-3">
+            <h2 class="mb-4">Anime List</h2>
+        </div>
+        <div class="col">
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th class="text-center">ID</th>
+                            <th class="text-center">Preview</th>
+                            <th class="text-center">Title</th>
+                            <th class="text-center">Genre</th>
+                            <th class="text-center">Rating</th>
+
+                            <!-- Add more columns as needed -->
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var anime in Model)
+                        {
+                            <tr>
+                                <td class="text-center">@anime.Id</td>
+                                <td class="text-center">
+                                    @if (!string.IsNullOrEmpty(anime.ImageUrl))
+                                    {
+                                        <a asp-controller="Anime" asp-action="AnimeDetails" asp-route-id="@anime.Id">
+                                            <img src="@anime.ImageUrl" alt="@anime.Title" class="img-thumbnail" style="max-width: 100px; max-height: 100px;">
+                                        </a>
+                                    }
+                                </td>
+                                <td>
+                                    <a asp-controller="Anime" asp-action="AnimeDetails" asp-route-id="@anime.Id" class="btn btn-link text-decoration-none">
+                                        <strong>@anime.Title</strong>
+                                    </a>
+                                </td>
+                                <td>@anime.Genre</td>
+                                <td class="text-center">@anime.Rating</td>
+
+                                <!-- Add more columns as needed -->
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

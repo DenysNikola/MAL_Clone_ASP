@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animes>
+  <Anime>
+    <Id>1</Id>
+    <Title>Attack on Titan</Title>
+    <Genre>Action, Drama, Fantasy</Genre>
+    <Rating>9</Rating>
+    <Description>In a world where humanity resides within enormous walled cities to protect themselves from Titans, gigantic humanoid creatures, the story follows Eren Yeager and his friends who join the military to fight the Titans after their hometown is invaded.</Description>
+    <ImageUrl>https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_FMjpg_UX1000_.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>2</Id>
+    <Title>One Punch Man</Title>
+    <Genre>Action, Comedy, Super Power</Genre>
+    <Rating>8</Rating>
+    <Description>Saitama, a hero who can defeat any opponent with a single punch, seeks to find a worthy adversary to bring excitement back to his life.</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/12/76049l.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>3</Id>
+    <Title>Death Note</Title>
+    <Genre>Mystery, Psychological, Thriller</Genre>
+    <Rating>9</Rating>
+    <Description>Light Yagami, after obtaining a mysterious notebook with the power to kill anyone whose name is written in it, seeks to create a utopia free of criminals</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/9/9453l.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>4</Id>
+    <Title>Fullmetal Alchemist: Brotherhood</Title>
+    <Genre>Action, Adventure, Drama</Genre>
+    <Rating>10</Rating>
+    <Description>Two brothers, Edward and Alphonse Elric, seek the Philosopher's Stone to restore their bodies after a failed alchemical experiment.</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/1208/94745l.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>5</Id>
+    <Title>Naruto</Title>
+    <Genre>Action, Adventure</Genre>
+    <Rating>7</Rating>
+    <Description>Naruto Uzumaki, an aspiring ninja with dreams of becoming the strongest ninja and leader of his village, faces challenges and enemies on his journey.</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/5/17407l.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>6</Id>
+    <Title>Steins;Gate</Title>
+    <Genre>Sci-Fi, Thriller</Genre>
+    <Rating>9</Rating>
+    <Description>Rintarou Okabe, a self-proclaimed mad scientist, discovers a way to send messages to the past, leading to unforeseen consequences.</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/1935/127974l.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>7</Id>
+    <Title>Demon Slayer</Title>
+    <Genre>Action, Demons, Historical</Genre>
+    <Rating>8</Rating>
+    <Description>Tanjirou Kamado, a young boy turned demon slayer, seeks to avenge his family and save his demon-turned sister.</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/1286/99889l.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>8</Id>
+    <Title>Code Geass</Title>
+    <Genre>Action, Mecha, Psychological</Genre>
+    <Rating>9</Rating>
+    <Description>Lelouch vi Britannia, a exiled prince, gains a power known as Geass and leads a rebellion against the Britannian Empire.</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/1032/135088l.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>9</Id>
+    <Title>Haikyuu!!</Title>
+    <Genre>Comedy, Drama, Sports</Genre>
+    <Rating>9</Rating>
+    <Description>Shouyou Hinata, a determined volleyball player with a short stature, joins a high school team to overcome challenges and compete at the national level.</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/7/76014l.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>10</Id>
+    <Title>My Hero Academia</Title>
+    <Genre>Action, Comedy, Super Power</Genre>
+    <Rating>8</Rating>
+    <Description>In a world where nearly everyone possesses superpowers, or "quirks," Izuku Midoriya, a quirkless boy, dreams of becoming a hero and enrolls in U.A. High School.</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/10/78745l.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>11</Id>
+    <Title>Cowboy Bebop</Title>
+    <Genre>Action, Sci-Fi, Space</Genre>
+    <Rating>9</Rating>
+    <Description>Spike Spiegel and his eclectic crew of bounty hunters traverse the galaxy in pursuit of dangerous criminals.</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/4/19644l.jpg</ImageUrl>
+  </Anime>
+  <Anime>
+    <Id>12</Id>
+    <Title>Neon Genesis Evangelion</Title>
+    <Genre>Action, Drama, Mecha</Genre>
+    <Rating>8</Rating>
+    <Description>In a world besieged by mysterious beings known as Angels, teenagers pilot giant mechs to protect humanity.</Description>
+    <ImageUrl>https://cdn.myanimelist.net/images/anime/7/74975l.jpg</ImageUrl>
+  </Anime>
+</Animes>
